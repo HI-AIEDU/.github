@@ -8,7 +8,7 @@ gantt
     tickInterval 5d
 
     section 공통 과정
-    Programming Basics     : active, a1, 2026-07-13, 13d
+    Programming Basics     : active, a1, 2026-01-01, 13d
     LLM/Agent              : a2, after a1, 10d
     RDB/NoSQL              : a3, after a2, 13d
     Document Parse         : a4, after a3, 13d
